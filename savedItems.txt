@@ -1,0 +1,18 @@
+Product ID: 1
+Product Name: TV
+Product Price: 50.0
+Available Product Pieces: 120
+Type: Electronics
+
+Product ID: 2
+Product Name: TV
+Product Price: 40.0
+Available Product Pieces: 500
+Type: Electronics
+
+Product ID: 3
+Product Name: T-shirt
+Product Price: 20.0
+Available Product Pieces: 20
+Type: Clothing
+
